@@ -4,48 +4,43 @@
 const questions = [
     {
         type: 'input',
-        message: 'xxx',
-        name: 'xxx'
+        message: 'what is the title of your project?',
+        name: 'title'
     },
     {
         type: 'input',
-        message: 'xxx',
-        name: 'xxx'
+        message: 'please describe this project',
+        name: 'description'
     },
     {
         type: 'input',
-        message: 'xxx',
-        name: 'xxx'
+        message: 'please give instructions for installation',
+        name: 'install'
     },
     {
         type: 'input',
-        message: 'xxx',
-        name: 'xxx'
+        message: 'please explain the purposes of the information that will be collected',
+        name: 'usage'
     },
     {
         type: 'input',
-        message: 'xxx',
-        name: 'xxx'
+        message: 'please describe the contribution guidelines',
+        name: 'contribution'
     },
     {
         type: 'input',
-        message: 'xxx',
-        name: 'xxx'
+        message: 'please describe the test instructions',
+        name: 'testing'
     },
     {
         type: 'input',
-        message: 'xxx',
-        name: 'xxx'
+        message: 'what is your github username?',
+        name: 'github'
     },
     {
         type: 'input',
-        message: 'xxx',
-        name: 'xxx'
-    },
-    {
-        type: 'input',
-        message: 'xxx',
-        name: 'xxx'
+        message: 'what is your linkedin username?',
+        name: 'linkedin'
     },
 ];
 
