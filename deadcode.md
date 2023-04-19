@@ -1,6 +1,21 @@
--------------------------- JAVA PLAN -------------------- // questions // what is the title of your project? // please describe this project // please give instructions for installation // please give instructions for using this application // please explain the purposes of the information that will be collected // please describe the contribution guidelines // please describe the test instructions // what license would you like to use? (list of options) // what is your github username? (then this is added to // the section of the README entitled Questions, with a // link to my GitHub profile (this will apply to both to do number five and to do number six ??))
+-------------------------- JAVA PLAN --------------------
+// questions
+// what is the title of your project?
+// please describe this project
+// please give instructions for installation
+// please give instructions for using this application
+// please explain the purposes of the information that will be collected
+// please describe the contribution guidelines
+// please describe the test instructions
+// what license would you like to use? (list of options)
+// what is your github username? (then this is added to
+// the section of the README entitled Questions, with a
+// link to my GitHub profile (this will apply to both to do number five and to do number six ??))
 
-// title, description, install instructions, usage info, // contribution guidelines, test instructions --> // Description, Installation, Usage, Contributing, and // Tests
+// title, description, install instructions, usage info,
+// contribution guidelines, test instructions -->
+// Description, Installation, Usage, Contributing, and
+// Tests
 
 -------------------------- JAVA PLAN --------------------
 
