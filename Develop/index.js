@@ -1,5 +1,6 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer')
+const fs = require('fs')
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -44,15 +45,19 @@ const questions = [
         name: 'linkedin'
     },
 ];
+text = "this is the text"
 
 // TODO: Create a function to write README file
 
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions).then((answers) => {
-        console.log(answers)
-});
-};
+      fs.writeFile(`${answers.title}.md`, answers.description, (err) => {
+        if (err) throw err;
+        console.log('File written successfully!');
+      });
+    });
+  }
 
 // Function call to initialize app
 init();
