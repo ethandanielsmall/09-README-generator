@@ -49,8 +49,8 @@ const questions = [
 
 // TODO: Create a function to initialize app
 function init() {
-    inquirer.prompt(questions).then((response) => {
-        console.log(response.questions)
+    inquirer.prompt(questions).then((answers) => {
+        console.log(answers)
 });
 };
 
