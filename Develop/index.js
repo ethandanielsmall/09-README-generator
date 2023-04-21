@@ -51,24 +51,6 @@ const questions = [
 function init() {
     inquirer.prompt(questions).then((response) => {
         console.log(response.questions)
-        const text = `
-        #${title}
-    
-        ##${description}
-
-        descriptipon goes here
-
-        ${title}
-
-        ${title}
-
-        ${title}
-
-        ${title}
-
-        ${title}
-
-        ${title}`
 });
 };
 
