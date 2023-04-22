@@ -4,6 +4,14 @@
   
   This project is a README generator that is used inside of the computer's terminal using javascript, node.js, and inquirer.
   
+  ## Table of Contents
+  
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+  
   ## Installation
   
   Go to the github link and copy down the public repo to your computer, then follow the video instructions.
@@ -22,13 +30,7 @@
   
   ## Questions
   
-  If you have any questions, please feel free to contact me via GitHub:
+  If you have any questions, please feel free to contact me via GitHub or LinkedIn:
   
   - GitHub: [ethandanielsmall](https://github.com/ethandanielsmall)
-
-  ## Video of usage
-
-  xxxx
-
-  ## Credits
-  Professional README Generator Starter Code: [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+  - LinkedIn: [](https://www.linkedin.com/in//)

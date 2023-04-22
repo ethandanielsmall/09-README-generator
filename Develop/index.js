@@ -94,7 +94,7 @@ function writeReadme(answers) {
 function init() {
     inquirer.prompt(questions).then((answers) => {
         const readmeContent = writeReadme(answers);
-        fs.writeFile(`${answers.title}.md`, readmeContent, (err) => {
+        fs.writeFile(`${answers.title}-README.md`, readmeContent, (err) => {
         if (err) throw err;
         console.log('File written successfully!');
       });
