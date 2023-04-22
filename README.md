@@ -28,7 +28,20 @@
 
   ## Video of usage
 
-  xxxx
+  https://youtu.be/6xIUFLNynYI
 
   ## Credits
+  
   Professional README Generator Starter Code: [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+
+  Anthony Dominguez: https://github.com/anthonydominguez86/professional-readme-generator
+
+  Rburmorrison: https://stackoverflow.com/questions/75267928/questions-about-fs-writefile
+
+  Adam Tatar: https://github.com/adamwrites/homework-09
+
+  Kyle: https://github.com/kylepng/README-Generator
+
+  Heather Cooper: https://github.com/EdenKhaos/09-NodeJS
+
+  OpenAi: https://chat.openai.com/
